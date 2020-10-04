@@ -1,4 +1,3 @@
-// Joust_Main Yafet
 #include<iostream>
 #include "Weapon.h"
 #include "Knight.h"
